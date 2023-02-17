@@ -1,0 +1,30 @@
+{
+  "name": "test_train-promise",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumenko111/test_train-promise-js.git"
+  },
+  "keywords": [],
+  "author": "Andriy Dumenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumenko111/test_train-promise-js/issues"
+  },
+  "homepage": "https://github.com/dumenko111/test_train-promise-js#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "bootstrap.native": "^5.0.1"
+  }
+}
