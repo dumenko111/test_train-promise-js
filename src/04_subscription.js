@@ -34,7 +34,7 @@ function openModal() {
     }
     timerId = setTimeout(() => {
         console.log('відкриваємо модальне вікно')
-        modal.show()
+        modal.show() //це кастомний метод відкриття модалки на самій бібліотеці bootstrap
         promptCounter += 1;
     }, PROMPT_DELAY)
 }
