@@ -9,11 +9,8 @@ const refs = {
 refs.notification.addEventListener('click', onNotificationClick)
 refs.notification.addEventListener('mouseenter', mouseEnter)//при наведені мишкою по вспливаючому вікні setTimeout() очищається
 
-
 let timerId = null
 showNotification()
-
-
 
 function onNotificationClick() {
     hidenNotification()
