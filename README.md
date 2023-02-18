@@ -17,4 +17,4 @@ Bootstrap Native для JS
 Разница времени
 Date.now() и new Date().getTime()
 Библиотека date-fns
-Мастерская: таймер
+Мастерская: таймер)
